@@ -17,8 +17,14 @@
 }
 
 .navbar-logo img {
+  height: 60px;
+  
+  
+}
+
+.rotation {
   height: 40px;
-  animation: rotateLogo 2s linear infinite;
+  animation: rotateLogo 2s alternate infinite;
   
 }
 
@@ -75,7 +81,7 @@
 }
 
 @keyframes rotateLogo {
-  0% { transform: rotate(0deg) scale(1); }
-  50% {transform: rotate(180deg) scale(1.4);}
-  100% { transform: rotate(360deg) scale(1); }
+  0% { transform: scale(1) translateX(0px); }
+  /* 50% {transform: rotate(180deg) scale(1.4);} */
+  100% { transform:  scale(1.5) translateX(350px); }
 }

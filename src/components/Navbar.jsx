@@ -5,8 +5,9 @@ const Navbar = () => {
   return (
     <nav className="navbar">
       <div className="navbar-logo">
-        <img src="src\assets\FrisbeeRotation.png" alt="Frisbee Logo" />
+        <img src="https://ufs-iitk.github.io/website/images/logos/logo.jpg" alt="logo" />
         <h1>Ultimate Frisbee | IIT Kanpur</h1>
+        <img className="rotation"  src="src\assets\FrisbeeRotation.png" alt="Frisbee Logo" />
       </div>
       <div className="navbar-links">
         <a href="#about">About</a>
