@@ -7,7 +7,7 @@ const Navbar = () => {
       <div className="navbar-logo">
         <img src="https://ufs-iitk.github.io/website/images/logos/logo.jpg" alt="logo" />
         <h1>Ultimate Frisbee | IIT Kanpur</h1>
-        <img className="rotation"  src="src\assets\FrisbeeRotation.png" alt="Frisbee Logo" />
+        <img className="rotation"  src="https://tse1.mm.bing.net/th/id/OIP.vHnVm2zthwxDhVpz0VekAgHaHa?rs=1&pid=ImgDetMain&o=7&rm=3" alt="Frisbee Logo" />
       </div>
       <div className="navbar-links">
         <a href="#about">About</a>

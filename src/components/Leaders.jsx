@@ -3,19 +3,19 @@ import "./Leaders.css";
 
 const leadersData = [
   {
-    name: "Yajath Parikh",
-    image: "src/assets/ypL.jpg",
+    name: "Yajat Parikh",
+    image: "https://github.com/ChitrankSh/UFS-IITK/blob/main/src/assets/ypL.jpg?raw=true",
     contact: "pyajat23@iitk.ac.in"
   },
   {
     name: "Rohan Kumar",
-    image: "src/assets/ypL.jpg",
+    image: "https://github.com/ChitrankSh/UFS-IITK/blob/main/src/assets/ypL.jpg?raw=true",
     contact: "rohank23@iitk.ac.in",
    
   },
   {
     name: "Saikiran Banoth",
-    image: "src/assets/ypL.jpg",
+    image: "https://github.com/ChitrankSh/UFS-IITK/blob/main/src/assets/ypL.jpg?raw=true",
     contact: "bsaikiran22@iitk.ac.in",
   },
 ];
